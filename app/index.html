@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html ng-app="orchestrionApp">
+  <head>
+    <!-- lib/vendor files -->
+    <link data-require="bootstrap-css@3.3.6" data-semver="3.3.6" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" />
+    <script data-require="angular.js@1.4.9" data-semver="1.4.9" src="https://code.angularjs.org/1.4.9/angular.js"></script>
+    <script data-require="ui-bootstrap@1.1.1" data-semver="1.1.1" src="https://cdn.rawgit.com/angular-ui/bootstrap/gh-pages/ui-bootstrap-1.1.1.js"></script>
+    <script data-require="ui-router@0.2.18" data-semver="0.2.18" src="//cdn.rawgit.com/angular-ui/ui-router/0.2.18/release/angular-ui-router.js"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- app scripts -->
+    <script src="controllers/appController.js"></script>
+    <script src="app.js"></script>
+    <script src="appRoutes.js"></script>
+  </head>
+
+  <body>
+    <div ui-view>
+    </div>
+  </body>
+
+</html>
