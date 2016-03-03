@@ -6,6 +6,13 @@ angular.module('orchestrionApp.routes', [])
   .state('app', {
     url: '',
     templateUrl: 'templates/app.tpl.html',
-    controller: 'appController'
+    controller: 'appController',
+    resolve: {
+      data: function ($http) {
+        return $http.get('data/rollData.json').then(function(response) {
+          return response.data;
+        });
+      }
+    }
   });
 });
