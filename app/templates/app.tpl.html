@@ -1,6 +1,6 @@
 <div class="container">
   <div class="page-header">
-    <h1>FFXIV Orchestrion Tracker</h1>
+    <h1>FFXIV Orchestrion Tracker <small>v0.1.1</small></h1>
   </div>
   <div class="row">
     <div class="col-md-12">
@@ -35,7 +35,10 @@
       <tbody>
         <tr ng-repeat="song in data" ng-class="{'success': song.checked}">
           <td>
-            <input type="checkbox" ng-model="song.checked">
+            <input
+              type="checkbox"
+              ng-model="song.checked"
+              ng-click="actions.saveRollInHistory(song.id)">
           </td>
           <td>{{ song.id }}</td>
           <td>
@@ -46,7 +49,10 @@
             <div ng-bind-html="showHtml(song.source.comment)"></div>
             <div ng-if="song.source.recipeItems && song.source.recipeItems.length">
               <div ng-repeat="ingredient in song.source.recipeItems" ng-class="{ 'bg-success': ingredient.checked }">
-                <input type="checkbox" ng-model="ingredient.checked"> {{ ingredient.name }}
+                <input
+                  type="checkbox"
+                  ng-model="ingredient.checked"
+                  ng-click="actions.saveRollInHistory(song.id)"> {{ ingredient.name }}
               </div>
             </div>
           </td>
