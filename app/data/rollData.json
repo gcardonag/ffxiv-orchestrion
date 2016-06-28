@@ -636,6 +636,340 @@
 
     {
       "id": 47,
+      "title": "A Sailor Never Sleeps",
+      "url": "https://youtu.be/6kIluY7-Syk",
+      "source": {
+        "comment": "Bango Zango at Limsa Lominsa Lower Decks (10,11) - 5,000 gil [by city aetheryte]"
+      }
+    },
+
+    {
+      "id": 48,
+      "title": "Dance of the Fireflies",
+      "url": "https://youtu.be/3dmIfjArBw0",
+      "source": {
+        "comment": "Maisenta at New Gridania (11,11) - 5,000 gil [by city aetheryte]"
+      }
+    },
+
+    {
+      "id": 49,
+      "title": "Sultana Dreaming",
+      "url": "https://youtu.be/yG-BIMPtC9k",
+      "source": {
+        "comment": "Roarich at Ul'dah Steps of Nald (10,9) - 5,000 gil [by Ruby Road outside of Adventurers' Guild]"
+      }
+    },
+
+    {
+      "id": 50,
+      "title": "Nobility Obliges",
+      "url": "https://youtu.be/aGYGJELrCOs",
+      "source": {
+        "comment": "Frine at The Pillars (6,9) - 5,000 gil [near far end of Jeweled Cozier]"
+      }
+    },  
+
+    {
+      "id": 51,
+      "title": "The Mushroomery",
+      "url": "https://youtu.be/orvKqkgWZOc",
+      "source": {
+        "comment": "Junkmonger in Matoya's Cave (6, 6) - 5,000 gil [submap of Dravanian Hinterland]"
+      }
+    },  
+
+    {
+      "id": 52,
+      "title": "Shelter",
+      "url": "https://youtu.be/fU2r9G_B3SQ",
+      "source": {
+        "comment": "Travelling Merchant at Dravanian Forelands (32, 23) - 5,000 gil [near Tailfeather aetheryte]"
+      }
+    },  
+
+    {
+      "id": 53,
+      "title": "Against the Wind",
+      "url": "https://youtu.be/_YKHKBgfQf0",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Mythrite Ink" },
+          { "name": "1x Faded Copy of Against the Wind (drops from hunts in Coerthas Western Highlands)" }
+        ]
+      }
+    },  
+
+    {
+      "id": 54,
+      "title": "Landlords",
+      "url": "https://youtu.be/cB9AQJgdX40",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Mythrite Ink" },
+          { "name": "1x Faded Copy of Landlords (drops from hunts in the Churning Mists)" }
+        ]
+      }
+    },  
+
+    {
+      "id": 55,
+      "title": "Missing Pages",
+      "url": "https://youtu.be/W17RdW_M4p8",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Mythrite Ink" },
+          { "name": "1x Faded Copy of Missing Pages (drops from hunts in the Dravanian Hinterlands)" }
+        ]
+      }
+    },  
+
+    {
+      "id": 56,
+      "title": "On Westerly Winds",
+      "url": "https://youtu.be/U2MZ-67Zwd0",
+      "source": {
+        "comment": "Bango Zango at Limsa Lominsa Lower Decks (10,11) - 5,000 gil [by city aetheryte]"
+      }
+    },  
+
+    {
+      "id": 57,
+      "title": "Serenity",
+      "url": "https://youtu.be/ys1M-zftP4I",
+      "source": {
+        "comment": "Maisenta at New Gridania (11,11) - 5,000 gil [by city aetheryte]"
+      }
+    },  
+
+    {
+      "id": 58,
+      "title": "To the Sun",
+      "url": "https://youtu.be/D4UOPAOB0kg",
+      "source": {
+        "comment": "Roarich at Ul'dah Steps of Nald (10,9) - 5,000 gil [by Ruby Road outside of Adventurers' Guild]"
+      }
+    }, 
+
+    {
+      "id": 59,
+      "title": "Ominous Prognisticks",
+      "url": "https://youtu.be/ECNRH3-j5WY",
+      "source": {
+        "comment": "Hismena at Idyllshire (5,5) - 750 Esoterics"
+      }
+    },  
+
+    {
+      "id": 60,
+      "title": "Horizons Calling",
+      "url": "https://youtu.be/wv2COCEygPM",
+      "source": {
+        "comment": "Drops from Hullbreaker Isle or Hullbreaker Isle (Hard)"
+      }
+    },  
+
+    {
+      "id": 61,
+      "title": "The Warrens",
+      "url": "https://youtu.be/OvCafVT94wg",
+      "source": {
+        "comment": "Drops from Snowcloak"
+      }
+    },  
+
+    {
+      "id": 62,
+      "title": "Ink Long Dry",
+      "url": "https://youtu.be/ExXhr8ch8Mk",
+      "source": {
+        "comment": "Drops from The Great Gubal Library"
+      }
+    },  
+
+    {
+      "id": 63,
+      "title": "Unbreakable",
+      "url": "https://youtu.be/8EaPDO6pPuE",
+      "source": {
+        "comment": "Drops from Fractal Continuum"
+      }
+    },  
+
+    {
+      "id": 64,
+      "title": "Apologies",
+      "url": "https://youtu.be/AVxUE_6z984",
+      "source": {
+        "comment": "Drops from Sohr Khai"
+      }
+    },  
+
+    {
+      "id": 65,
+      "title": "Wreck to the Seaman",
+      "url": "https://youtu.be/XhHNbigmNhU",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 2 Orchestrion Roll" },
+          { "name": "1x Enchanted Rose Gold Ink" },
+          { "name": "1x Faded Copy of Wreck to the Seaman (drops from The Whorleater Extreme)" }
+        ]
+      }
+    },  
+
+    {
+      "id": 66,
+      "title": "Through the Maelstrom",
+      "url": "https://youtu.be/xhZiZf0M-hQ",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 2 Orchestrion Roll" },
+          { "name": "1x Enchanted Rose Gold Ink" },
+          { "name": "1x Faded Copy of Through the Maelstrom (drops from The Whorleater Extreme)" }
+        ]
+      }
+    },  
+
+    {
+      "id": 67,
+      "title": "Good King Moggle Mog XII",
+      "url": "https://youtu.be/_2oxO129TJI",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 2 Orchestrion Roll" },
+          { "name": "1x Enchanted Rose Gold Ink" },
+          { "name": "1x Faded Copy of Good King Moggle Mog XII (drops from Thormarch Extreme)" }
+        ]
+      }
+    },  
+
+    {
+      "id": 68,
+      "title": "Revenge of the Horde",
+      "url": "https://youtu.be/rofSs6lKrtU",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Aurum Regis Ink" },
+          { "1x Faded Copy of Revenge of the Horde (drops from The Minstrel's Ballad: Nidhogg's Rage)" }
+        ]
+      }
+    },  
+
+    {
+      "id": 69,
+      "title": "Battle on the Big Bridge",
+      "url": "https://youtu.be/yNHq8Ic8a6w",
+      "source": {
+        "comment": "Crafted - ALC Lv60 (Master II ?)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 1 Orchestrion Roll" },
+          { "name": "1x Enchanted Gold Ink" },
+          { "name": "1x Faded Copy of Battle on the Big Bridge (drops from Battle on the Big Bridge/Battle in the Big Keep)" }
+        ]
+      }
+    },  
+
+
+    {
+      "id": 70,
+      "title": "Battle to the Death - Heavensward",
+      "url": "https://youtu.be/-sq2bQy2F2E",
+      "source": {
+        "comment": "Gold Saucer - 20,000 MGP"
+      }
+    },  
+
+    {
+      "id": 71,
+      "title": "Engage",
+      "url": "https://youtu.be/lgRAT-TTNI8",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Mythrite Ink" },
+          { "name": "1x Faded Copy of Engage (drops from loot chest in The Diadem)" }
+        ]
+      }
+    },  
+
+    {
+      "id": 72,
+      "title": "Defender of the Realm",
+      "url": "https://youtu.be/0KMkSszRFgU",
+      "source": {
+        "comment": "Achievement reward for unlocking 50 songs" 
+      }
+    },  
+
+    {
+      "id": 73,
+      "title": "On Windy Meadows",
+      "url": "https://youtu.be/ICxYi3O_SHc",
+      "source": {
+        "comment": "Drops from the final seventh room of the Aquapolis"
+      }
+    },  
+
+    {
+      "id": 74,
+      "title": "Whisper of the Land",
+      "url": "https://youtu.be/gE1T7Xryeik",
+      "source": {
+        "comment": "Drops from the final seventh room of the Aquapolis"
+      }
+    },  
+
+    {
+      "id": 75,
+      "title": "Twilight over Thanalan",
+      "url": "https://youtu.be/TDjzssXZPUg",
+      "source": {
+        "comment": "Drops from the final seventh room of the Aquapolis"
+      }
+    },  
+
+    {
+      "id": 76,
+      "title": "Dragonsong",
+      "url": "https://youtu.be/FtuwltmTp9I",
+      "source": {
+        "comment": " MSQ Reward, cannot be missed"
+      }
+    },  
+
+    {
+      "id": 0,
       "title": "Pa-Paya",
       "url": "https://youtu.be/t8dTnavUMnk",
       "source": {
