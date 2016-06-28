@@ -668,7 +668,7 @@
       "source": {
         "comment": "Frine at The Pillars (6,9) - 5,000 gil [near far end of Jeweled Cozier]"
       }
-    },  
+    },
 
     {
       "id": 51,
@@ -677,7 +677,7 @@
       "source": {
         "comment": "Junkmonger in Matoya's Cave (6, 6) - 5,000 gil [submap of Dravanian Hinterland]"
       }
-    },  
+    },
 
     {
       "id": 52,
@@ -686,7 +686,7 @@
       "source": {
         "comment": "Travelling Merchant at Dravanian Forelands (32, 23) - 5,000 gil [near Tailfeather aetheryte]"
       }
-    },  
+    },
 
     {
       "id": 53,
@@ -702,7 +702,7 @@
           { "name": "1x Faded Copy of Against the Wind (drops from hunts in Coerthas Western Highlands)" }
         ]
       }
-    },  
+    },
 
     {
       "id": 54,
@@ -718,7 +718,7 @@
           { "name": "1x Faded Copy of Landlords (drops from hunts in the Churning Mists)" }
         ]
       }
-    },  
+    },
 
     {
       "id": 55,
@@ -734,7 +734,7 @@
           { "name": "1x Faded Copy of Missing Pages (drops from hunts in the Dravanian Hinterlands)" }
         ]
       }
-    },  
+    },
 
     {
       "id": 56,
@@ -743,7 +743,7 @@
       "source": {
         "comment": "Bango Zango at Limsa Lominsa Lower Decks (10,11) - 5,000 gil [by city aetheryte]"
       }
-    },  
+    },
 
     {
       "id": 57,
@@ -752,7 +752,7 @@
       "source": {
         "comment": "Maisenta at New Gridania (11,11) - 5,000 gil [by city aetheryte]"
       }
-    },  
+    },
 
     {
       "id": 58,
@@ -761,7 +761,7 @@
       "source": {
         "comment": "Roarich at Ul'dah Steps of Nald (10,9) - 5,000 gil [by Ruby Road outside of Adventurers' Guild]"
       }
-    }, 
+    },
 
     {
       "id": 59,
@@ -770,7 +770,7 @@
       "source": {
         "comment": "Hismena at Idyllshire (5,5) - 750 Esoterics"
       }
-    },  
+    },
 
     {
       "id": 60,
@@ -779,7 +779,7 @@
       "source": {
         "comment": "Drops from Hullbreaker Isle or Hullbreaker Isle (Hard)"
       }
-    },  
+    },
 
     {
       "id": 61,
@@ -788,7 +788,7 @@
       "source": {
         "comment": "Drops from Snowcloak"
       }
-    },  
+    },
 
     {
       "id": 62,
@@ -797,7 +797,7 @@
       "source": {
         "comment": "Drops from The Great Gubal Library"
       }
-    },  
+    },
 
     {
       "id": 63,
@@ -806,7 +806,7 @@
       "source": {
         "comment": "Drops from Fractal Continuum"
       }
-    },  
+    },
 
     {
       "id": 64,
@@ -815,7 +815,7 @@
       "source": {
         "comment": "Drops from Sohr Khai"
       }
-    },  
+    },
 
     {
       "id": 65,
@@ -831,7 +831,7 @@
           { "name": "1x Faded Copy of Wreck to the Seaman (drops from The Whorleater Extreme)" }
         ]
       }
-    },  
+    },
 
     {
       "id": 66,
@@ -847,7 +847,7 @@
           { "name": "1x Faded Copy of Through the Maelstrom (drops from The Whorleater Extreme)" }
         ]
       }
-    },  
+    },
 
     {
       "id": 67,
@@ -863,7 +863,7 @@
           { "name": "1x Faded Copy of Good King Moggle Mog XII (drops from Thormarch Extreme)" }
         ]
       }
-    },  
+    },
 
     {
       "id": 68,
@@ -876,10 +876,10 @@
         "recipeItems": [
           { "name": "1x Blank Grade 3 Orchestrion Roll" },
           { "name": "1x Enchanted Aurum Regis Ink" },
-          { "1x Faded Copy of Revenge of the Horde (drops from The Minstrel's Ballad: Nidhogg's Rage)" }
+          { "name": "1x Faded Copy of Revenge of the Horde (drops from The Minstrel's Ballad: Nidhogg's Rage)" }
         ]
       }
-    },  
+    },
 
     {
       "id": 69,
@@ -895,7 +895,7 @@
           { "name": "1x Faded Copy of Battle on the Big Bridge (drops from Battle on the Big Bridge/Battle in the Big Keep)" }
         ]
       }
-    },  
+    },
 
 
     {
@@ -905,7 +905,7 @@
       "source": {
         "comment": "Gold Saucer - 20,000 MGP"
       }
-    },  
+    },
 
     {
       "id": 71,
@@ -921,16 +921,16 @@
           { "name": "1x Faded Copy of Engage (drops from loot chest in The Diadem)" }
         ]
       }
-    },  
+    },
 
     {
       "id": 72,
       "title": "Defender of the Realm",
       "url": "https://youtu.be/0KMkSszRFgU",
       "source": {
-        "comment": "Achievement reward for unlocking 50 songs" 
+        "comment": "Achievement reward for unlocking 50 songs"
       }
-    },  
+    },
 
     {
       "id": 73,
@@ -939,7 +939,7 @@
       "source": {
         "comment": "Drops from the final seventh room of the Aquapolis"
       }
-    },  
+    },
 
     {
       "id": 74,
@@ -948,7 +948,7 @@
       "source": {
         "comment": "Drops from the final seventh room of the Aquapolis"
       }
-    },  
+    },
 
     {
       "id": 75,
@@ -957,23 +957,23 @@
       "source": {
         "comment": "Drops from the final seventh room of the Aquapolis"
       }
-    },  
+    },
 
     {
       "id": 76,
       "title": "Dragonsong",
       "url": "https://youtu.be/FtuwltmTp9I",
       "source": {
-        "comment": " MSQ Reward, cannot be missed"
+        "comment": "MSQ Reward, cannot be missed"
       }
-    },  
+    },
 
     {
       "id": 0,
       "title": "Pa-Paya",
       "url": "https://youtu.be/t8dTnavUMnk",
       "source": {
-        "comment": "Speculated to be from seasonal event"
+        "comment": "Seasonal event - Hatchingtide 2016"
       }
     }
   ]
