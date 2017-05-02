@@ -11,6 +11,8 @@
     {
       "id": 2,
       "title": "Torn from the Heavens",
+      "category": "Primal Battles",
+      "categoryitemid": 1,
       "url": "https://youtu.be/AJSM4tAeEAA",
       "source": {
         "comment": "Gold Saucer - 50,000 MGP"
@@ -386,6 +388,8 @@
     {
       "id": 29,
       "title": "Ultima",
+      "category": "Primal Battles",
+      "categoryitemid": 2,
       "url": "https://youtu.be/nBT6hOtWcfU",
       "source": {
         "comment": "Achievement reward for unlocking 30 songs"
@@ -395,6 +399,8 @@
     {
       "id": 30,
       "title": "The Maker's Ruin",
+      "category": "Primal Battles",
+      "categoryitemid": 3,
       "url": "https://youtu.be/1l69nQsEHxI",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master I)",
@@ -411,6 +417,8 @@
     {
       "id": 31,
       "title": "Primal Judgment",
+      "category": "Primal Battles",
+      "categoryitemid": 4,
       "url": "https://youtu.be/nMLl98A0v8k",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master I)",
@@ -427,6 +435,8 @@
     {
       "id": 32,
       "title": "Fallen Angel",
+      "category": "Primal Battles",
+      "categoryitemid": 5,
       "url": "https://youtu.be/yMBZEHSPyxM",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master I)",
@@ -443,6 +453,8 @@
     {
       "id": 33,
       "title": "Under the Weight",
+      "category": "Primal Battles",
+      "categoryitemid": 6,
       "url": "https://youtu.be/bDEPwFmBQXM",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master I)",
@@ -459,6 +471,8 @@
     {
       "id": 34,
       "title": "Heroes",
+      "category": "Primal Battles",
+      "categoryitemid": 7,
       "url": "https://youtu.be/5Av8flSjmMc",
       "source": {
         "comment": "Crafted - ALC Lv60 (Master III &#9733;)",
@@ -475,6 +489,8 @@
     {
       "id": 35,
       "title": "Fiend",
+      "category": "Primal Battles",
+      "categoryitemid": 8,
       "url": "https://youtu.be/25WOf5s-SU0",
       "source": {
         "comment": "Crafted - ALC Lv60 (Master III &#9733;)",
@@ -491,6 +507,8 @@
     {
       "id": 36,
       "title": "Hubris",
+      "category": "Raids",
+      "categoryitemid": 1,
       "url": "https://youtu.be/4Gkz0YYrIrc",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -507,6 +525,8 @@
     {
       "id": 37,
       "title": "Tumbling Down",
+      "category": "Raids",
+      "categoryitemid": 2,
       "url": "https://youtu.be/sEeNGF5xoHA",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -523,6 +543,8 @@
     {
       "id": 38,
       "title": "Now I Know the Truth",
+      "category": "Raids",
+      "categoryitemid": 4,
       "url": "",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -539,6 +561,8 @@
     {
       "id": 39,
       "title": "Out of the Labyrinth",
+      "category": "Raids",
+      "categoryitemid": 3,
       "url": "https://youtu.be/Rz7K7u47Wls",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -555,6 +579,8 @@
     {
       "id": 40,
       "title": "Blind to the Dark",
+      "category": "Raids",
+      "categoryitemid": 5,
       "url": "https://youtu.be/1-M-aN1cFdo",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -571,6 +597,8 @@
     {
       "id": 41,
       "title": "Hunger",
+      "category": "Raids",
+      "categoryitemid": 6,
       "url": "https://youtu.be/_U1fY9LXnMk",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -587,6 +615,8 @@
     {
       "id": 42,
       "title": "Eternal Wind",
+      "category": "Raids",
+      "categoryitemid": 7,
       "url": "https://youtu.be/DbUJQO9CZhA",
       "source": {
         "comment": "Crafted - ALC Lv60 (Master III &#9733;)",
@@ -605,6 +635,8 @@
     {
       "id": 43,
       "title": "Thunderer",
+      "category": "Raids",
+      "categoryitemid": 8,
       "url": "https://youtu.be/UyfTDbc57E0",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -621,6 +653,8 @@
     {
       "id": 44,
       "title": "Rise of the White Raven",
+      "category": "Raids",
+      "categoryitemid": 9,
       "url": "https://youtu.be/JXEOBvuvkG0",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -637,6 +671,8 @@
     {
       "id": 45,
       "title": "From the Ashes",
+      "category": "Raids",
+      "categoryitemid": 10,
       "url": "https://youtu.be/8mM-nHCieSI",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -653,6 +689,8 @@
     {
       "id": 46,
       "title": "Answers",
+      "category": "Raids",
+      "categoryitemid": 11,
       "url": "https://youtu.be/39j5v8jlndM",
       "source": {
         "comment": "Crafted - ALC Lv60 (Master IV &#9733;&#9733; Specialist-only)",
@@ -888,6 +926,8 @@
     {
       "id": 65,
       "title": "Wreck to the Seaman",
+      "category": "Primal Battles",
+      "categoryitemid": 9,
       "url": "https://youtu.be/XhHNbigmNhU",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -904,6 +944,8 @@
     {
       "id": 66,
       "title": "Through the Maelstrom",
+      "category": "Primal Battles",
+      "categoryitemid": 10,
       "url": "https://youtu.be/xhZiZf0M-hQ",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -920,6 +962,8 @@
     {
       "id": 67,
       "title": "Good King Moggle Mog XII",
+      "category": "Primal Battles",
+      "categoryitemid": 11,
       "url": "https://youtu.be/_2oxO129TJI",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -936,6 +980,8 @@
     {
       "id": 68,
       "title": "Revenge of the Horde",
+      "category": "Primal Battles",
+      "categoryitemid": 12,
       "url": "https://youtu.be/rofSs6lKrtU",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -952,6 +998,8 @@
     {
       "id": 69,
       "title": "Battle on the Big Bridge",
+      "category": "Primal Battles",
+      "categoryitemid": 13,
       "url": "https://youtu.be/yNHq8Ic8a6w",
       "source": {
         "comment": "Crafted - ALC Lv60 (Master II ?)",
@@ -969,6 +1017,8 @@
     {
       "id": 70,
       "title": "Battle to the Death - Heavensward",
+      "category": "Primal Battles",
+      "categoryitemid": 14,
       "url": "https://youtu.be/-sq2bQy2F2E",
       "source": {
         "comment": "Gold Saucer - 20,000 MGP"
@@ -1045,6 +1095,8 @@
     {
       "id": 0,
       "title": "Pa-Paya",
+      "category": "Seasonal",
+      "categoryitemid": 3,
       "url": "https://youtu.be/t8dTnavUMnk",
       "source": {
         "comment": "Seasonal event - Hatchingtide 2016"
@@ -1363,6 +1415,406 @@
       "url": "https://youtu.be/VO6VwHMP-7g",
       "source": {
         "comment": "MSQ"
+      }
+    },
+
+    {
+      "id": 105,
+      "title": "Footsteps in the Snow",
+      "category": "Primal Battles",
+      "categoryitemid": 15,
+      "url": "https://youtu.be/KhDldATuFQ4",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 2 Orchestrion Roll" },
+          { "name": "1x Enchanted Platinum Ink" },
+          { "name": "1x Faded Copy of Footsteps in the Snow (drops from Akh Afah Amphitheatre Extreme)" }
+        ]
+      }
+    },
+
+    {
+      "id": 106,
+      "title": "Oblivion",
+      "category": "Primal Battles",
+      "categoryitemid": 16,
+      "url": "https://youtu.be/RHkMfJBDFZM",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 2 Orchestrion Roll" },
+          { "name": "1x Enchanted Platinum Ink" },
+          { "name": "1x Faded Copy of Oblivion (drops from Akh Afah Amphitheatre Extreme)" }
+        ]
+      }
+    },
+
+    {
+      "id": 107,
+      "title": "Thunder Rolls",
+      "category": "Primal Battles",
+      "categoryitemid": 17,
+      "url": "https://youtu.be/HydzCxbzXGU",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 2 Orchestrion Roll" },
+          { "name": "1x Enchanted Platinum Ink" },
+          { "name": "1x Faded Copy of Thunder Rolls (drops from The Striking Tree Extreme)" }
+        ]
+      }
+    },
+
+    {
+      "id": 108,
+      "title": "Equilibrium",
+      "category": "Primal Battles",
+      "categoryitemid": 18,
+      "url": "https://youtu.be/-T1k-9UvdlU",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 2 Orchestrion Roll" },
+          { "name": "1x Enchanted Platinum Ink" },
+          { "name": "1x Faded Copy of Equilibrium (drops from Containment Bay P1T6 Extreme)" }
+        ]
+      }
+    },
+
+    {
+      "id": 109,
+      "title": "The Corpse Hall",
+      "category": "Primal Battles",
+      "categoryitemid": 19,
+      "url": "https://youtu.be/qAp8U5z9cjQ",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 2 Orchestrion Roll" },
+          { "name": "1x Enchanted Platinum Ink" },
+          { "name": "1x Faded Copy of The Corpse Hall (drops from Drops from Urth's Fount)" }
+        ]
+      }
+    },
+
+    {
+      "id": 110,
+      "title": "Limitless Blue",
+      "category": "Primal Battles",
+      "categoryitemid": 20,
+      "url": "https://youtu.be/s_K0ZeBrvco",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Aurum Regis Ink" },
+          { "name": "1x Faded Copy of Limitless Blue (Drops from The Limitless Blue Extreme)" }
+        ]
+      }
+    },
+
+    {
+      "id": 111,
+      "title": "Woe that Is Madness",
+      "category": "Primal Battles",
+      "categoryitemid": 21,
+      "url": "https://youtu.be/o9F0tU7-wbA",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Aurum Regis Ink" },
+          { "name": "1x Faded Copy of Woe that Is Madness (Drops from The Limitless Blue Extreme)" }
+        ]
+      }
+    },
+
+    {
+      "id": 112,
+      "title": "The Hand that Gives the Rose",
+      "category": "Primal Battles",
+      "categoryitemid": 22,
+      "url": "https://youtu.be/Q6roTXrTziQ",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Aurum Regis Ink" },
+          { "name": "1x Faded Copy of The Hand that Gives the Rose (Drops from Drops from Thok Ast Thok (Extreme))" }
+        ]
+      }
+    },
+
+    {
+      "id": 113,
+      "title": "Unbending Steel",
+      "category": "Primal Battles",
+      "categoryitemid": 23,
+      "url": "https://youtu.be/FV_IP4mNJCI",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Aurum Regis Ink" },
+          { "name": "1x Faded Copy of Unbending Steel (Drops from Drops from Thok Ast Thok (Extreme))" }
+        ]
+      }
+    },
+
+    {
+      "id": 114,
+      "title": "Infinity",
+      "category": "Primal Battles",
+      "categoryitemid": 24,
+      "url": "https://youtu.be/dkUPxsKtq8k",
+      "source": {
+        "comment": "Crafted - ALC Lv50 (Master II)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x Blank Grade 3 Orchestrion Roll" },
+          { "name": "1x Enchanted Aurum Regis Ink" },
+          { "name": "1x Faded Copy of Infinity (drops from Containment Bay Z1T9 (Extreme))" }
+        ]
+      }
+    },
+
+    {
+      "id": 115,
+      "title": "Moonfire Faire",
+      "category": "Seasonal",
+      "categoryitemid": 4,
+      "url": "https://youtu.be/JYZpcUO8ID4",
+      "source": {
+        "comment": "Moonfire Faire Seasonal Event"
+      }
+    },
+
+    {
+      "id": 116,
+      "title": "Heavensward",
+      "category": "Seasonal",
+      "categoryitemid": 5,
+      "url": "https://youtu.be/a_xL0EIA6mg",
+      "source": {
+        "comment": "Heavensward Seasonal Event"
+      }
+    },
+
+    {
+      "id": 117,
+      "title": "All Saints' Wake",
+      "category": "Seasonal",
+      "categoryitemid": 6,
+      "url": "https://youtu.be/FKju_ayhTxE",
+      "source": {
+        "comment": "All Saints' Wake Seasonal Event"
+      }
+    },
+
+    {
+      "id": 118,
+      "title": "Up At Dawn",
+      "category": "Seasonal",
+      "categoryitemid": 7,
+      "url": "https://youtu.be/Mq9sktGjkkg",
+      "source": {
+        "comment": "Up At Dawn Seasonal Event"
+      }
+    },
+
+    {
+      "id": 119,
+      "title": "Starlight Celebration",
+      "category": "Seasonal",
+      "categoryitemid": 8,
+      "url": "https://youtu.be/-jkZrSW4bE4",
+      "source": {
+        "comment": "Starlight Celebration Seasonal Event"
+      }
+    },
+
+    {
+      "id": 120,
+      "title": "Sins of the Father",
+      "category": "Raids",
+      "categoryitemid": 12,
+      "url": "https://youtu.be/94iQ1TjWEZs",
+      "source": {
+        "comment": "Awarded on finishing the entire Alexander storyline"
+      }
+    },
+
+    {
+      "id": 121,
+      "title": "Locus",
+      "category": "Raids",
+      "categoryitemid": 13,
+      "url": "https://youtu.be/3cKy5Qk0QMM",
+      "source": {
+        "comment": "Awarded on finishing the entire Alexander storyline"
+      }
+    },
+
+    {
+      "id": 122,
+      "title": "Metal",
+      "category": "Raids",
+      "categoryitemid": 14,
+      "url": "https://youtu.be/sWTT7Y6KM00",
+      "source": {
+        "comment": "Awarded on finishing the entire Alexander storyline"
+      }
+    },
+
+    {
+      "id": 123,
+      "title": "Metal - Brute Justice Mode",
+      "category": "Raids",
+      "categoryitemid": 15,
+      "url": "https://youtu.be/wLCWCPyxByg",
+      "source": {
+        "comment": "Awarded on finishing the entire Alexander storyline"
+      }
+    },
+
+    {
+      "id": 124,
+      "title": "Exponential Entropy",
+      "category": "Raids",
+      "categoryitemid": 16,
+      "url": "https://youtu.be/hb0P9jHV8dQ",
+      "source": {
+        "comment": "Awarded on finishing The Heart of the Creator"
+      }
+    },
+
+    {
+      "id": 125,
+      "title": "Rise",
+      "category": "Raids",
+      "categoryitemid": 17,
+      "url": "https://youtu.be/-IiOzi05IlA",
+      "source": {
+        "comment": "Awarded on finishing The Heart of the Creator"
+      }
+    },
+
+    {
+      "id": 126,
+      "title": "Moebius",
+      "category": "Raids",
+      "categoryitemid": 18,
+      "url": "https://youtu.be/E51ZuULFxvk",
+      "source": {
+        "comment": "Bertana at Idyllshire - 1 Alexandrian Gear"
+      }
+    },
+
+    {
+      "id": 127,
+      "title": "Tempest",
+      "category": "Raids",
+      "categoryitemid": 19,
+      "url": "https://youtu.be/6DX3qIf4EDc",
+      "source": {
+        "comment": "Gold Saucer - 30,000 MGP"
+      }
+    },
+
+    {
+      "id": 128,
+      "title": "Spiral",
+      "category": "Raids",
+      "categoryitemid": 20,
+      "url": "https://youtu.be/Td8Xz9mnYyw",
+      "source": {
+        "comment": "Gold Saucer - 30,000 MGP"
+      }
+    },
+
+    {
+      "id": 129,
+      "title": "Aetherosphere",
+      "category": "Raids",
+      "categoryitemid": 21,
+      "url": "https://youtu.be/1XEEjfsh17o",
+      "source": {
+        "comment": "Bertana at Idyllshire - 1 Mhachi Penny"
+      }
+    },
+
+    {
+      "id": 130,
+      "title": "Six Fulms Under",
+      "category": "Raids",
+      "categoryitemid": 22,
+      "url": "https://youtu.be/6tAkiP4WE-0",
+      "source": {
+        "comment": "Bertana at Idyllshire - 1 Mhachi Penny"
+      }
+    },
+
+    {
+      "id": 131,
+      "title": "Teardrops in the Rain",
+      "category": "Raids",
+      "categoryitemid": 23,
+      "url": "https://youtu.be/CfAXRqkgrtk",
+      "source": {
+        "comment": "Bertana at Idyllshire - 1 Mhachi Farthing"
+      }
+    },
+
+    {
+      "id": 132,
+      "title": "A Thousand Faces",
+      "category": "Raids",
+      "categoryitemid": 24,
+      "url": "https://youtu.be/hAIrh0040S4",
+      "source": {
+        "comment": "Bertana at Idyllshire - 1 Mhachi Farthing"
+      }
+    },
+
+    {
+      "id": 133,
+      "title": "Promises",
+      "category": "Raids",
+      "categoryitemid": 25,
+      "url": "https://youtu.be/Ytsmmrs29gc",
+      "source": {
+        "comment": "Awarded on completion of Dun Scaith"
+      }
+    },
+
+    {
+      "id": 134,
+      "title": "Shadow of the Body",
+      "category": "Raids",
+      "categoryitemid": 26,
+      "url": "https://youtu.be/EaF2l3o6QMU",
+      "source": {
+        "comment": "Awarded on completion of Dun Scaith"
       }
     }
   ]
