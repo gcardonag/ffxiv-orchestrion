@@ -2,6 +2,8 @@
     {
       "id": 1,
       "title": "Prelude - Discoveries",
+      "category": "Others",
+      "categoryitemid": 1,
       "url": "https://youtu.be/qTZN_Nnv8NA",
       "source": {
         "comment": "Achievement reward for unlocking 10 songs (speak w/ Jonathas in Gridania)"
@@ -22,6 +24,8 @@
     {
       "id": 3,
       "title": "A Cold Wind",
+      "category": "Others",
+      "categoryitemid": 2,
       "url": "https://youtu.be/ahFy4ZCWQhA",
       "source": {
         "comment": "Gold Saucer - 5,000 MGP"
@@ -31,6 +35,8 @@
     {
       "id": 4,
       "title": "Contention",
+      "category": "Others",
+      "categoryitemid": 3,
       "url": "https://youtu.be/xZL9YWDgXjw",
       "source": {
         "comment": "Hismena at Idyllshire (5,5) - 750 esoterics"
@@ -149,6 +155,8 @@
     {
       "id": 13,
       "title": "Agent of Inquiry",
+      "category": "Others",
+      "categoryitemid": 4,
       "url": "https://youtu.be/AqTmMUdKlO4",
       "source": {
         "comment": "Hildibrand theme; Gold Saucer - 30,000 MGP"
@@ -180,6 +188,8 @@
     {
       "id": 16,
       "title": "The Only Path",
+      "category": "Others",
+      "categoryitemid": 5,
       "url": "https://youtu.be/UdjCe8ZbmFk",
       "source": {
         "comment": "Crafted - ALC Lv50",
@@ -196,6 +206,8 @@
     {
       "id": 17,
       "title": "A World Apart",
+      "category": "Others",
+      "categoryitemid": 6,
       "url": "https://youtu.be/XpjQx1mGqIU",
       "source": {
         "comment": "Crafted - ALC Lv50",
@@ -212,6 +224,8 @@
     {
       "id": 18,
       "title": "Tenacity",
+      "category": "Others",
+      "categoryitemid": 7,
       "url": "https://youtu.be/lYqOKw5NzY0",
       "source": {
         "comment": "Amber Trader at Foundation (10,10) - 5x Amber-encased Vilekin"
@@ -221,6 +235,8 @@
     {
       "id": 19,
       "title": "When a Tree Falls",
+      "category": "Others",
+      "categoryitemid": 8,
       "url": "https://youtu.be/_wZ_VT1SiHg",
       "source": {
         "comment": "Amber Trader at Foundation (10,10) - 10x Amber-encased Vilekin"
@@ -230,6 +246,8 @@
     {
       "id": 20,
       "title": "Blood for Blood",
+      "category": "Others",
+      "categoryitemid": 9,
       "url": "https://youtu.be/0sHf9qq82eU",
       "source": {
         "comment": "Crafted - ALC Lv60 (Master III)",
@@ -246,6 +264,8 @@
     {
       "id": 21,
       "title": "Starved",
+      "category": "Others",
+      "categoryitemid": 10,
       "url": "https://youtu.be/M59HXzL8TB0",
       "source": {
         "comment": "Crafted - ALC Lv60 (Master III)",
@@ -862,6 +882,8 @@
     {
       "id": 59,
       "title": "Ominous Prognisticks",
+      "category": "Others",
+      "categoryitemid": 11,
       "url": "https://youtu.be/ECNRH3-j5WY",
       "source": {
         "comment": "Hismena at Idyllshire (5,5) - 750 Esoterics"
@@ -1028,6 +1050,8 @@
     {
       "id": 71,
       "title": "Engage",
+      "category": "Others",
+      "categoryitemid": 12,
       "url": "https://youtu.be/lgRAT-TTNI8",
       "source": {
         "comment": "Crafted - ALC Lv50 (Master II)",
@@ -1044,6 +1068,8 @@
     {
       "id": 72,
       "title": "Defender of the Realm",
+      "category": "Others",
+      "categoryitemid": 13,
       "url": "https://youtu.be/0KMkSszRFgU",
       "source": {
         "comment": "Achievement reward for unlocking 50 songs"
@@ -1086,6 +1112,8 @@
     {
       "id": 76,
       "title": "Dragonsong",
+      "category": "Others",
+      "categoryitemid": 14,
       "url": "https://youtu.be/FtuwltmTp9I",
       "source": {
         "comment": "MSQ Reward, cannot be missed"
@@ -1815,6 +1843,116 @@
       "url": "https://youtu.be/EaF2l3o6QMU",
       "source": {
         "comment": "Awarded on completion of Dun Scaith"
+      }
+    },
+
+    {
+      "id": 135,
+      "title": "The Seventh Sun",
+      "category": "Others",
+      "categoryitemid": 15,
+      "url": "https://youtu.be/7GhJJ1YJGwQ",
+      "source": {
+        "comment": "Achievement reward for unlocking 100 songs"
+      }
+    },
+
+    {
+      "id": 136,
+      "title": "Calamity Unbound",
+      "category": "Others",
+      "categoryitemid": 16,
+      "url": "https://youtu.be/yijyvLcElBI",
+      "source": {
+        "comment": "Drops from The Aquapolis"
+      }
+    },
+
+    {
+      "id": 137,
+      "title": "Battle Theme 1.x",
+      "category": "Others",
+      "categoryitemid": 17,
+      "url": "https://youtu.be/uvUdycDqidw",
+      "source": {
+        "comment": "Gold Saucer - 20,000 MGP"
+      }
+    },
+
+    {
+      "id": 138,
+      "title": "Breaking Boundaries",
+      "category": "Others",
+      "categoryitemid": 18,
+      "url": "https://youtu.be/RQ8yAEkUUgI",
+      "source": {
+        "comment": "Drops from The Aquapolis"
+      }
+    },
+
+    {
+      "id": 139,
+      "title": "Canticle",
+      "category": "Others",
+      "categoryitemid": 19,
+      "url": "https://youtu.be/taF4CVgx_rE",
+      "source": {
+        "comment": "Housing Merchant, Housing District, 5,000 gil"
+      }
+    },
+
+    {
+      "id": 140,
+      "title": "Forever Lost",
+      "category": "Others",
+      "categoryitemid": 20,
+      "url": "https://youtu.be/dmheJO3xOiE",
+      "source": {
+        "comment": "MSQ Reward, cannot be missed"
+      }
+    },
+
+    {
+      "id": 141,
+      "title": "Jewel",
+      "category": "Others",
+      "categoryitemid": 21,
+      "url": "https://youtu.be/Z6LKRkHF9xA",
+      "source": {
+        "comment": "Obtained from lockboxes in the Diadem"
+      }
+    },
+
+    {
+      "id": 142,
+      "title": "He Who Continues the Attack",
+      "category": "Others",
+      "categoryitemid": 22,
+      "url": "https://youtu.be/916CXkqbENw",
+      "source": {
+        "comment": "MSQ Reward, cannot be missed"
+      }
+    },
+
+    {
+      "id": 143,
+      "title": "Imperial Will",
+      "category": "Others",
+      "categoryitemid": 23,
+      "url": "https://youtu.be/dJNR00QQKWs",
+      "source": {
+        "comment": "MSQ Reward, cannot be missed"
+      }
+    },
+
+    {
+      "id": 144,
+      "title": "Steel Reason",
+      "category": "Others",
+      "categoryitemid": 24,
+      "url": "https://youtu.be/Vhr2mLhmdR4",
+      "source": {
+        "comment": "MSQ Reward, cannot be missed"
       }
     }
   ]
