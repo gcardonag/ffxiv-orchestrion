@@ -10,7 +10,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr ng-repeat="song in data" ng-class="{'success': song.checked}">
+      <tr ng-repeat="song in data | filter:category='Primal Battles'" ng-class="{'success': song.checked}">
         <td>
           <input
             type="checkbox"
