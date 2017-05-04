@@ -15,17 +15,27 @@
     <script src="app.js"></script>
     <script src="appRoutes.js"></script>
 
+    <style type="text/css">
+      .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+      }
+    </style>
+
     <title>FFXIV Orchestrion Tracker</title>
   </head>
 
   <body>
-    
-    <a ui-sref="locales"><img src="icons/locales.png"/>Locales</a>
-    <a ui-sref="dungeons"><img src="icons/dungeons.png"/>Dungeons</a>
-    <a ui-sref="primal_battles"><img src="icons/primal_battles.png"/>Primal Battles</a>
-    <a ui-sref="raids"><img src="icons/raids.png"/>Raids</a>
-    <a ui-sref="others"><img src="icons/others.png"/>Others</a>
-    <a ui-sref="seasonal"><img src="icons/seasonal.png"/>Seasonal</a>
+    <div class="navbar">
+      <div class="navbar-inner">
+        <a ui-sref="locales"><img src="icons/locales.png"/>Locales</a>
+        <a ui-sref="dungeons"><img src="icons/dungeons.png"/>Dungeons</a>
+        <a ui-sref="primal_battles"><img src="icons/primal_battles.png"/>Primal Battles</a>
+        <a ui-sref="raids"><img src="icons/raids.png"/>Raids</a>
+        <a ui-sref="others"><img src="icons/others.png"/>Others</a>
+        <a ui-sref="seasonal"><img src="icons/seasonal.png"/>Seasonal</a>
+      </div>
+    </div>
 
     <div class="row">
     <div class="span12">
