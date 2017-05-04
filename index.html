@@ -19,13 +19,19 @@
   </head>
 
   <body>
-    <div ui-view></div>
+    
     <a ui-sref="locales">Locales</a>
     <a ui-sref="dungeons">Dungeons</a>
     <a ui-sref="primal_battles">Primal Battles</a>
     <a ui-sref="raids">Raids</a>
     <a ui-sref="others">Others</a>
     <a ui-sref="seasonal">Seasonal</a>
+    
+    <div class="row">
+    <div class="span12">
+      <div class="well" ui-view></div>        
+    </div>
+  </div>
 
   </body>
 
