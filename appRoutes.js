@@ -36,7 +36,7 @@ angular.module('orchestrionApp.routes', [])
 
   $stateProvider
   .state('locales', {
-    url: '',
+    url: '/locales',
     templateUrl: 'templates/locales.html',
     controller: 'appController',
     resolve: {
@@ -68,7 +68,7 @@ angular.module('orchestrionApp.routes', [])
 
   $stateProvider
   .state('dungeons', {
-    url: '',
+    url: '/dungeons',
     templateUrl: 'templates/dungeons.html',
     controller: 'appController',
     resolve: {
@@ -100,7 +100,7 @@ angular.module('orchestrionApp.routes', [])
 
   $stateProvider
   .state('primal_battles', {
-    url: '',
+    url: '/primal_battles',
     templateUrl: 'templates/primal_battles.html',
     controller: 'appController',
     resolve: {
@@ -132,7 +132,7 @@ angular.module('orchestrionApp.routes', [])
 
   $stateProvider
   .state('raids', {
-    url: '',
+    url: '/raids',
     templateUrl: 'templates/raids.html',
     controller: 'appController',
     resolve: {
@@ -164,7 +164,7 @@ angular.module('orchestrionApp.routes', [])
 
   $stateProvider
   .state('others', {
-    url: '',
+    url: '/others',
     templateUrl: 'templates/others.html',
     controller: 'appController',
     resolve: {
@@ -196,7 +196,7 @@ angular.module('orchestrionApp.routes', [])
 
   $stateProvider
   .state('seasonal', {
-    url: '',
+    url: '/seasonal',
     templateUrl: 'templates/seasonal.html',
     controller: 'appController',
     resolve: {
