@@ -1954,5 +1954,179 @@
       "source": {
         "comment": "Seasonal event - Hatchingtide 2016"
       }
+    },
+
+    {
+      "id": 146,            
+      "title": "Skylords",
+      "category": "Locales",
+      "categoryitemid": 42,
+      "url": "TBD",
+      "source": {
+        "comment": "Crafted - ALC LvTBD (Master TBD)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x TBD - Obtained from elite marks in the Churning Mists" }
+        ]
+      }
+    },
+
+    {
+      "id": 147,
+      "title": "The Silent Regards of Stars",
+      "category": "Locales",
+      "categoryitemid": 43,
+      "url": "TBD",
+      "source": {
+        "comment": "Crafted - ALC LvTBD (Master TBD)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x TBD - Obtained from elite marks in the Dravanian Hinterlands" }
+        ]
+      }
+    },
+
+    {
+      "id": 148,
+      "title": "Beyond the Wall",
+      "category": "Locales",
+      "categoryitemid": 44,
+      "url": "TBD",
+      "source": {
+        "comment": "Obtained from FATE 'The Evil Seed'"
+      }
+    },
+
+    {
+      "id": 149,
+      "title": "Liquid Flame",
+      "category": "Locales",
+      "categoryitemid": 45,
+      "url": "TBD",
+      "source": {
+        "comment": "Obtained from FATE 'Never Say Daimyo'"
+      }
+    },
+
+    {
+      "id": 150,
+      "title": "Drowning in the Horizon",
+      "category": "Locales",
+      "categoryitemid": 46,
+      "url": "TBD",
+      "source": {
+        "comment": "Available for Centurion Seal exchange at Rhalgr's Reach and Kugane (Cost TBD)"
+      }
+    },
+
+    {
+      "id": 151,
+      "title": "The Edge",
+      "category": "Locales",
+      "categoryitemid": 47,
+      "url": "TBD",
+      "source": {
+        "comment": "Available for purchase at Wineport. (Merchant & Mender - 5,000 gil)"
+      }
+    },
+
+    {
+      "id": 152,
+      "title": "Poison Ivy",
+      "category": "Dungeons",
+      "categoryitemid": 23,
+      "url": "TBD",
+      "source": {
+        "comment": "Obtained from Saint Mocianne's Arboretum"
+      }
+    },
+
+    {
+      "id": 153,
+      "title": "Bibliophobia",
+      "category": "Dungeons",
+      "categoryitemid": 24,
+      "url": "TBD",
+      "source": {
+        "comment": "Obtained from Great Gubal Library (Hard)"
+      }
+    },
+
+    {
+      "id": 154,
+      "title": "Revelation",
+      "category": "Primal Battles",
+      "categoryitemid": 25,
+      "url": "TBD",
+      "source": {
+        "comment": "Crafted - ALC LvTBD (Master TBD)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x TBD - Obtained from the Pool of Tribute (Extreme)" }
+        ]
+      }
+    },
+
+    {
+      "id": 155,
+      "title": "Beauty's Wicked Wiles",
+      "category": "Primal Battles",
+      "categoryitemid": 26,
+      "url": "TBD",
+      "source": {
+        "comment": "Crafted - ALC LvTBD (Master TBD)",
+        "recipeUrl": "",
+        "recipeName": "",
+        "recipeItems": [
+          { "name": "1x TBD - Obtained from the Emanation (Extreme)" }
+        ]
+      }
+    },
+
+    {
+      "id": 156,
+      "title": "Ambient Waves",
+      "category": "Others",
+      "categoryitemid": 25,
+      "url": "TBD",
+      "source": {
+        "comment": "Obtained from Residential Area Vendor - 5,000 gil"
+      }
+    },
+
+    {
+      "id": 157,
+      "title": "Ambient Birdsong",
+      "category": "Others",
+      "categoryitemid": 26,
+      "url": "TBD",
+      "source": {
+        "comment": "Obtained from Residential Area Vendor - 5,000 gil"
+      }
+    },
+
+    {
+      "id": 158,
+      "title": "Ambient Rainfall",
+      "category": "Others",
+      "categoryitemid": 27,
+      "url": "TBD",
+      "source": {
+        "comment": "Obtained from Residential Area Vendor - 5,000 gil"
+      }
+    },
+
+    {
+      "id": 159,
+      "title": "Ambient Cricketsong",
+      "category": "Others",
+      "categoryitemid": 28,
+      "url": "TBD",
+      "source": {
+        "comment": "Obtained from Residential Area Vendors - 5,000 gil"
+      }
     }
   ]
